@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--fileTime:20171017050000-->
+<XML>
+
+	<input identify="buffer_range">4</input>
+
+	<input des='文件名模板' identify="name_form">FIR_H8FIR_XCUR_ISSUE_COTM_LiangShan</input>
+
+	<output des='pos 火点   png 地址' identify='pose_img'>_pos_510000000.png</output>
+	<output des='Mir 近红外 png 地址' identify='mir_img'>_mir_510000000.png</output>
+	<output des='The 专题图 png 地址' identify='them_img'>_them_510000000.png</output>
+
+	<output des='region txt' identify='region_txt'>_region.txt</output>
+	<output des='point  txt' identify='point_txt'>_point.txt</output>
+
+	<input  des='pos 火点   mxd 地址' identify='pose_mxd'>D:\Code\FireDetectionH8\algorithm\AuxData\MXD\Pose.mxd</input>
+	<input  des='Mir 近红外 mxd 地址' identify='mir_mxd'>D:\Code\FireDetectionH8\algorithm\AuxData\MXD\Mir.mxd</input>
+	<input  des='The 专题图 mxd 地址' identify='them_mxd'>D:\Code\FireDetectionH8\algorithm\AuxData\MXD\Them.mxd</input>
+
+	<input  des='塔杆的位置' identify="tower_position">D:\Code\FireDetectionH8\algorithm\AuxData\Target\tower_point_fixed.shp</input>
+	<input  des='电线的位置' identify="line_position">D:\Code\FireDetectionH8\algorithm\AuxData\Target\line_wae.shp</input>
+	<input  des='坐标系统' identify="proj">D:\Code\FireDetectionH8\algorithm\AuxData\GeoShp\shi.shp</input>
+	<input  des='坐标系统' identify="proj">D:\Code\FireDetectionH8\algorithm\AuxData\GeoShp\xian.shp</input>
+	<input  des='文件名模板' identify="border_shp">D:\Code\FireDetectionH8\algorithm\AuxData\GeoShp\sheng.shp</input>
+
+	<input  des='边界线' identify="line_tif">D:\Code\FireDetectionH8\algorithm\AuxData\Line\china_line.tif</input>
+	<input  des='土地利用' identify="land_use">D:\Code\FireDetectionH8\algorithm\AuxData\Landuse\land_use.tif</input>
+
+	<input  des='省矢量' identify="provience_shp">D:\Code\FireDetectionH8\algorithm\AuxData\GeoShp\sheng.shp</input>
+	<input  des='市矢量' identify="city_shp">D:\Code\FireDetectionH8\algorithm\AuxData\GeoShp\shi.shp</input>
+	<input  des='县矢量' identify="country_shp">D:\Code\FireDetectionH8\algorithm\AuxData\GeoShp\xian.shp</input>
+
+	<input  des='省id和name字段' identify="provivnce_id_name">CODE,NAME</input>
+	<input  des='市id和name字段' identify="city_id_name">CID,CNAME</input>
+	<input  des='县id和name字段' identify="country_id_name">XID,xname</input>
+
+	<input des='工厂掩膜' identify="no_fire_mask">D:\Code\FireDetectionH8\algorithm\AuxData\NoFireMask\SCBig_FM.shp</input>
+	<input des='水体掩膜文件夹' identify="water_mask_dir">D:\Code\FireDetectionH8\algorithm\AuxData\Water</input>
+
+</XML>

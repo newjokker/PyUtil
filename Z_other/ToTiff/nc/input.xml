@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--fileTime:20171017050000-->
+<XML>
+	<!--预处理后的数据-->
+	<input identify="issue">201907012300</input>
+	<input identify="out_dir">C:\Users\Administrator\Desktop\NC\out</input>
+	<input identify="input_path">D:\BaiduNetdiskDownload</input>
+	<!--<input identify="gdal_translate_exe_path">C:\Python27\ArcGIS10.3\Lib\site-packages\osgeo\gdal_translate.exe</input>-->
+	<input identify="gdal_translate_exe_path">C:\Python27\ArcGIS10.5\Lib\site-packages\osgeo\gdal_translate.exe</input>
+	<input identify="file_check_condition">RSM</input>
+</XML>

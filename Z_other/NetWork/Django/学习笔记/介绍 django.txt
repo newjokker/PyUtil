@@ -1,0 +1,39 @@
+
+
+
+* models.py 文件主要用一个 Python 类来描述数据表。 称为 模型(model) 。
+ 运用这个类，你可以通过简单的 Python 的代码来创建、检索、更新、删除 数据库中的记录而无需写一条又一条的SQL语句。
+
+* views.py文件包含了页面的业务逻辑。 latest_books()函数叫做视图。
+
+* urls.py 指出了什么样的 URL 调用什么的视图。 在这个例子中 /latest/ URL 将会调用 latest_books() 这个函数。
+换句话说，如果你的域名是example.com，任何人浏览网址http://example.com/latest/将会调用latest_books()这个函数。
+
+* latest_books.html 是 html 模板，它描述了这个页面的设计是如何的。 使用带基本逻辑声明的模板语言，如{% for book in book_list %}
+
+---------------------------------------------
+
+* manage.py ：一种命令行工具，允许你以多种方式与该 Django 项目进行交互。 键入python manage.py help，看一下它能做什么。
+你应当不需要编辑这个文件；在这个目录下生成它纯是为了方便。
+
+* settings.py ：该 Django 项目的设置或配置。 查看并理解这个文件中可用的设置类型及其默认值
+
+* urls.py：Django项目的URL设置。 可视其为你的django网站的目录。 目前，它是空的。
+
+---------------------------------------------
+
+* hello word
+    * cd 当项目目录
+    * python manage.py runserver
+    * 浏览器中访问  http://127.0.0.1:8000/  就能看到欢迎界面
+
+* 通过指定一个 IP 地址，你可以告诉服务器–允许非本地连接访问。 如果你想和其他开发人员共享同一开发站点的话，
+该功能特别有用。 `` 0.0.0.0`` 这个 IP 地址，告诉服务器去侦听任意的网络接口。
+    * python manage.py runserver 0.0.0.0:8000
+
+* 开发服务器将自动检测Python代码的更改来做必要的重新加载， 所以你不需要重启Server在代码更改之后。
+    （jokker）这个动态加载的功能实现的不错
+
+*
+
+

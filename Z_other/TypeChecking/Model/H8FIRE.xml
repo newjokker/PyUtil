@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--ProcessTime:20190418_0640-->
+<XML>
+	<log>
+		<status>2</status>
+		<info>success</info>
+	</log>
+	<outFiles>
+		<region identify="XX0000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\test\FIR_H8FIR_ZCUR_201904181440_COTM_Region_pos_510000000.png</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\test\FIR_H8FIR_ZCUR_201904181440_COTM_Region_them_510000000.png</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\test\FIR_H8FIR_ZCUR_201904181440_COTM_Region_mir_510000000.png</file>
+			<file type="region_excel">C:\Users\Administrator\Desktop\test\FIR_H8FIR_SCUR_201904181440_COTM_Region_region.xls</file>
+		</region>
+	</outFiles>
+	<tables>
+		<table identify="htht_cluster_schedule_fire_info">
+			<field>id,fire_num,time,lon,lat,province,city,county,region_id,fire_area,landuse,satellit,sensor,relative_path_pose,relative_path_them,relative_path_mir</field>
+			<values>392b3f5e7cf811e98b186c4b905b11db,1,201904180640,115.676,36.456,山东,聊城市,冠县,371525000000,0.0112,裸土,H8,AHI,C:\Users\Administrator\Desktop\test\zoom_pic\fire_point_pose_0.jpg,C:\Users\Administrator\Desktop\test\zoom_pic\fire_point_them_0.jpg,C:\Users\Administrator\Desktop\test\zoom_pic\fire_point_mir_0.jpg</values>
+			<values>392b3f5f7cf811e9af746c4b905b11db,2,201904180640,112.766,35.176,河南,焦作市,沁阳市,410882000000,0.0256,旱地,H8,AHI,C:\Users\Administrator\Desktop\test\zoom_pic\fire_point_pose_1.jpg,C:\Users\Administrator\Desktop\test\zoom_pic\fire_point_them_1.jpg,C:\Users\Administrator\Desktop\test\zoom_pic\fire_point_mir_1.jpg</values>
+		</table>
+		<table identify="htht_cluster_schedule_fire_point_info">
+			<field>fire_info_id,lon,lat</field>
+			<values>392b3f5e7cf811e98b186c4b905b11db,115.676,36.456</values>
+			<values>392b3f5f7cf811e9af746c4b905b11db,112.756,35.176</values>
+			<values>392b3f5f7cf811e9af746c4b905b11db,112.776,35.176</values>
+		</table>
+	</tables>
+</XML>

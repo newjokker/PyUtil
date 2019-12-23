@@ -1,0 +1,21 @@
+# 忽略所有 pyc 文件
+*.pyc
+*.py[cod]
+
+# 忽略所有指定文件夹 pyc 文件
+src\appQingZang\pluginQZ\*.py[cod]
+
+src\common\config\*.py[cod]
+src\common\entity\*.py[cod]
+src\common\jdbc\*.py[cod]
+src\common\process\*.py[cod]
+
+src\common\utils\*.py[cod]
+
+src\common\*.py[cod]
+
+src\*.py[cod]
+
+# 忽略 .dea 的文件夹，后面有斜杠的就是文件夹
+.idea/
+

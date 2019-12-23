@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--ProcessTime:201905150540-->
+<XML>
+	<log>
+		<status>2</status>
+		<info>success</info>
+	</log>
+	<outFiles>
+		<region identify="350000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\350000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_350000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\350000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_350000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\350000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_350000000000.jpg</file>
+		</region>
+		<region identify="520000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\520000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_520000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\520000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_520000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\520000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_520000000000.jpg</file>
+		</region>
+		<region identify="430000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\430000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_430000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\430000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_430000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\430000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_430000000000.jpg</file>
+		</region>
+		<region identify="310000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\310000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_310000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\310000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_310000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\310000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_310000000000.jpg</file>
+		</region>
+		<region identify="460000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\460000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_460000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\460000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_460000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\460000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_460000000000.jpg</file>
+		</region>
+		<region identify="820000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\820000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_820000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\820000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_820000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\820000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_820000000000.jpg</file>
+		</region>
+		<region identify="530000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\530000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_530000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\530000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_530000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\530000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_530000000000.jpg</file>
+		</region>
+		<region identify="360000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\360000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_360000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\360000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_360000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\360000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_360000000000.jpg</file>
+		</region>
+		<region identify="510000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\510000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_510000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\510000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_510000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\510000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_510000000000.jpg</file>
+		</region>
+		<region identify="320000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\320000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_320000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\320000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_320000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\320000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_320000000000.jpg</file>
+		</region>
+		<region identify="440000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\440000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_440000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\440000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_440000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\440000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_440000000000.jpg</file>
+		</region>
+		<region identify="420000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\420000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_420000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\420000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_420000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\420000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_420000000000.jpg</file>
+		</region>
+		<region identify="500000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\500000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_500000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\500000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_500000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\500000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_500000000000.jpg</file>
+		</region>
+		<region identify="330000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\330000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_330000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\330000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_330000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\330000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_330000000000.jpg</file>
+		</region>
+		<region identify="410000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\410000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_410000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\410000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_410000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\410000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_410000000000.jpg</file>
+		</region>
+		<region identify="710000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\710000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_710000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\710000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_710000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\710000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_710000000000.jpg</file>
+		</region>
+		<region identify="340000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\340000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_340000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\340000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_340000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\340000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_340000000000.jpg</file>
+		</region>
+		<region identify="540000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\540000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_540000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\540000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_540000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\540000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_540000000000.jpg</file>
+		</region>
+		<region identify="450000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\450000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_450000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\450000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_450000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\450000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_450000000000.jpg</file>
+		</region>
+		<region identify="810000000000">
+			<file type="pos_png">C:\Users\Administrator\Desktop\npp_test\810000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_pose_810000000000.jpg</file>
+			<file type="them_png">C:\Users\Administrator\Desktop\npp_test\810000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_them_810000000000.jpg</file>
+			<file type="mir_png">C:\Users\Administrator\Desktop\npp_test\810000000000\FIR_NPPVIIRS_ZCUR_20190515_1340_COOD_mir_810000000000.jpg</file>
+		</region>
+	</outFiles>
+	<tables>
+		<table identify="htht_cluster_schedule_fire_info">
+			<field>id,fire_num,time,lon,lat,province,city,county,region_id,fire_area,landuse,satellit,sensor,relative_path_pose,relative_path_them,relative_path_mir</field>
+			<values>16050470785d11e9b3bb6c4b905b11db,1,201905150540,111.839,21.691,广东省,阳江市,江城区,441702000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_0.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_0.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_0.jpg</values>
+			<values>16050471785d11e9a8b86c4b905b11db,1,201905150540,112.017,21.910,广东省,阳江市,阳东县,441723000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_1.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_1.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_1.jpg</values>
+			<values>16050472785d11e9b6a66c4b905b11db,1,201905150540,111.944,21.906,广东省,阳江市,江城区,441702000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_2.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_2.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_2.jpg</values>
+			<values>16050473785d11e9a4c96c4b905b11db,1,201905150540,111.962,22.372,广东省,阳江市,阳春市,441781000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_3.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_3.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_3.jpg</values>
+			<values>16050474785d11e9bdd16c4b905b11db,1,201905150540,116.098,23.060,广东省,揭阳市,惠来县,445224000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_4.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_4.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_4.jpg</values>
+			<values>16050475785d11e996a36c4b905b11db,1,201905150540,116.094,23.060,广东省,揭阳市,惠来县,445224000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_5.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_5.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_5.jpg</values>
+			<values>16050476785d11e981216c4b905b11db,1,201905150540,112.217,22.673,广东省,云浮市,新兴县,445321000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_6.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_6.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_6.jpg</values>
+			<values>16050477785d11e98f2e6c4b905b11db,1,201905150540,112.217,22.676,广东省,云浮市,新兴县,445321000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_7.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_7.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_7.jpg</values>
+			<values>16050478785d11e9912a6c4b905b11db,1,201905150540,112.786,22.866,广东省,佛山市,高明区,440608000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_8.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_8.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_8.jpg</values>
+			<values>16050479785d11e984676c4b905b11db,1,201905150540,113.171,22.968,广东省,佛山市,顺德区,440606000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_9.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_9.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_9.jpg</values>
+			<values>1605047a785d11e982c76c4b905b11db,1,201905150540,113.163,22.967,广东省,佛山市,顺德区,440606000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_10.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_10.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_10.jpg</values>
+			<values>1605047b785d11e982616c4b905b11db,1,201905150540,113.158,22.973,广东省,佛山市,顺德区,440606000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_11.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_11.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_11.jpg</values>
+			<values>1605047c785d11e992556c4b905b11db,1,201905150540,112.169,22.939,广东省,云浮市,云城区,445302000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_12.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_12.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_12.jpg</values>
+			<values>16052b80785d11e981b96c4b905b11db,1,201905150540,112.103,22.957,广东省,云浮市,云城区,445302000000,0.14,平原水田,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_13.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_13.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_13.jpg</values>
+			<values>16052b81785d11e9922e6c4b905b11db,1,201905150540,112.095,22.956,广东省,云浮市,云城区,445302000000,0.14,平原水田,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_14.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_14.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_14.jpg</values>
+			<values>16052b82785d11e982306c4b905b11db,1,201905150540,112.824,23.091,广东省,佛山市,三水区,440607000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_15.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_15.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_15.jpg</values>
+			<values>16052b83785d11e9b5c76c4b905b11db,1,201905150540,112.827,23.097,广东省,佛山市,三水区,440607000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_16.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_16.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_16.jpg</values>
+			<values>16052b84785d11e9ab946c4b905b11db,1,201905150540,112.172,23.040,广东省,云浮市,云城区,445302000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_17.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_17.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_17.jpg</values>
+			<values>16052b85785d11e98e746c4b905b11db,1,201905150540,114.350,23.407,广东省,惠州市,博罗县,441322000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_18.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_18.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_18.jpg</values>
+			<values>16052b86785d11e9a8d96c4b905b11db,1,201905150540,108.649,22.704,广西壮族自治区,南宁市,青秀区,450103000000,0.14,丘陵旱地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_19.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_19.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_19.jpg</values>
+			<values>16052b87785d11e9b6246c4b905b11db,1,201905150540,111.574,23.244,广东省,肇庆市,封开县,441225000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_20.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_20.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_20.jpg</values>
+			<values>16052b88785d11e98c036c4b905b11db,1,201905150540,101.628,21.826,云南省,西双版纳傣族自治州,勐腊县,532823000000,0.14,其他林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_21.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_21.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_21.jpg</values>
+			<values>16052b89785d11e99e516c4b905b11db,1,201905150540,100.211,21.666,云南省,西双版纳傣族自治州,勐海县,532822000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_22.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_22.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_22.jpg</values>
+			<values>16052b8a785d11e9971f6c4b905b11db,1,201905150540,100.210,21.668,云南省,西双版纳傣族自治州,勐海县,532822000000,0.14,灌木林,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_23.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_23.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_23.jpg</values>
+			<values>16052b8b785d11e9aac26c4b905b11db,1,201905150540,100.397,22.164,云南省,西双版纳傣族自治州,勐海县,532822000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_24.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_24.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_24.jpg</values>
+			<values>16052b8c785d11e99e406c4b905b11db,1,201905150540,100.539,22.213,云南省,西双版纳傣族自治州,勐海县,532822000000,0.14,高覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_25.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_25.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_25.jpg</values>
+			<values>16052b8d785d11e983ab6c4b905b11db,1,201905150540,100.538,22.219,云南省,西双版纳傣族自治州,勐海县,532822000000,0.14,山地旱地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_26.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_26.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_26.jpg</values>
+			<values>16052b8e785d11e985196c4b905b11db,1,201905150540,100.492,22.226,云南省,西双版纳傣族自治州,勐海县,532822000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_27.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_27.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_27.jpg</values>
+			<values>16052b8f785d11e997926c4b905b11db,1,201905150540,100.489,22.225,云南省,西双版纳傣族自治州,勐海县,532822000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_28.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_28.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_28.jpg</values>
+			<values>16052b90785d11e99a916c4b905b11db,1,201905150540,100.495,22.226,云南省,西双版纳傣族自治州,勐海县,532822000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_29.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_29.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_29.jpg</values>
+			<values>16052b91785d11e984d76c4b905b11db,1,201905150540,100.489,22.231,云南省,西双版纳傣族自治州,勐海县,532822000000,0.14,山地旱地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_30.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_30.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_30.jpg</values>
+			<values>16052b92785d11e991336c4b905b11db,1,201905150540,100.492,22.232,云南省,西双版纳傣族自治州,勐海县,532822000000,0.14,山地旱地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_31.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_31.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_31.jpg</values>
+			<values>16052b93785d11e9b2ec6c4b905b11db,1,201905150540,100.487,22.230,云南省,西双版纳傣族自治州,勐海县,532822000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_32.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_32.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_32.jpg</values>
+			<values>16052b94785d11e98b8f6c4b905b11db,1,201905150540,100.371,22.251,云南省,西双版纳傣族自治州,勐海县,532822000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_33.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_33.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_33.jpg</values>
+			<values>16052b95785d11e98f3f6c4b905b11db,1,201905150540,99.609,22.099,云南省,普洱市,孟连傣族拉祜族佤族自治县,530827000000,0.14,未知类型,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_34.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_34.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_34.jpg</values>
+			<values>16052b96785d11e9bf6a6c4b905b11db,1,201905150540,99.609,22.099,云南省,普洱市,孟连傣族拉祜族佤族自治县,530827000000,0.14,未知类型,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_35.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_35.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_35.jpg</values>
+			<values>1605528f785d11e9a8756c4b905b11db,1,201905150540,100.383,22.288,云南省,西双版纳傣族自治州,勐海县,532822000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_36.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_36.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_36.jpg</values>
+			<values>16055290785d11e99e5d6c4b905b11db,1,201905150540,100.387,22.289,云南省,西双版纳傣族自治州,勐海县,532822000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_37.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_37.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_37.jpg</values>
+			<values>16055291785d11e9a5586c4b905b11db,1,201905150540,101.377,22.921,云南省,普洱市,宁洱哈尼族彝族自治县,530821000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_38.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_38.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_38.jpg</values>
+			<values>16055292785d11e9b94e6c4b905b11db,1,201905150540,101.378,22.923,云南省,普洱市,宁洱哈尼族彝族自治县,530821000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_39.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_39.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_39.jpg</values>
+			<values>16055293785d11e99f6c6c4b905b11db,1,201905150540,101.375,22.922,云南省,普洱市,宁洱哈尼族彝族自治县,530821000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_40.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_40.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_40.jpg</values>
+			<values>16055294785d11e9bdd86c4b905b11db,1,201905150540,101.370,22.937,云南省,普洱市,宁洱哈尼族彝族自治县,530821000000,0.14,灌木林,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_41.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_41.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_41.jpg</values>
+			<values>16055295785d11e9b0a86c4b905b11db,1,201905150540,99.637,22.650,云南省,普洱市,西盟佤族自治县,530829000000,0.14,山地旱地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_42.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_42.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_42.jpg</values>
+			<values>16055296785d11e9812f6c4b905b11db,1,201905150540,99.638,22.651,云南省,普洱市,西盟佤族自治县,530829000000,0.14,山地旱地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_43.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_43.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_43.jpg</values>
+			<values>16055297785d11e9a2d76c4b905b11db,1,201905150540,104.047,23.776,云南省,文山壮族苗族自治州,砚山县,532622000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_44.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_44.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_44.jpg</values>
+			<values>16055298785d11e9a05d6c4b905b11db,1,201905150540,104.050,23.782,云南省,文山壮族苗族自治州,砚山县,532622000000,0.14,疏林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_45.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_45.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_45.jpg</values>
+			<values>16055299785d11e996296c4b905b11db,1,201905150540,104.046,23.781,云南省,文山壮族苗族自治州,砚山县,532622000000,0.14,疏林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_46.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_46.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_46.jpg</values>
+			<values>1605529a785d11e9a67b6c4b905b11db,1,201905150540,103.658,23.827,云南省,文山壮族苗族自治州,砚山县,532622000000,0.14,山地旱地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_47.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_47.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_47.jpg</values>
+			<values>1605529b785d11e98d166c4b905b11db,1,201905150540,103.657,23.831,云南省,文山壮族苗族自治州,砚山县,532622000000,0.14,灌木林,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_48.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_48.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_48.jpg</values>
+			<values>1605529c785d11e9a09a6c4b905b11db,1,201905150540,103.659,23.828,云南省,文山壮族苗族自治州,砚山县,532622000000,0.14,山地旱地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_49.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_49.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_49.jpg</values>
+			<values>1605529d785d11e983ed6c4b905b11db,1,201905150540,103.658,23.832,云南省,文山壮族苗族自治州,砚山县,532622000000,0.14,灌木林,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_50.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_50.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_50.jpg</values>
+			<values>1605529e785d11e990f76c4b905b11db,1,201905150540,103.251,23.767,云南省,红河哈尼族彝族自治州,开远市,532502000000,0.14,中覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_51.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_51.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_51.jpg</values>
+			<values>1605529f785d11e981bc6c4b905b11db,1,201905150540,103.992,23.930,云南省,文山壮族苗族自治州,丘北县,532626000000,0.14,高覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_52.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_52.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_52.jpg</values>
+			<values>160552a0785d11e983816c4b905b11db,1,201905150540,103.177,23.799,云南省,红河哈尼族彝族自治州,开远市,532502000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_53.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_53.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_53.jpg</values>
+			<values>160552a1785d11e9931f6c4b905b11db,1,201905150540,99.877,23.098,云南省,普洱市,澜沧拉祜族自治县,530828000000,0.14,山地水田,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_54.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_54.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_54.jpg</values>
+			<values>160552a2785d11e9a09d6c4b905b11db,1,201905150540,115.880,25.843,江西省,赣州市,瑞金市,360781000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_55.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_55.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_55.jpg</values>
+			<values>160552a3785d11e9afa76c4b905b11db,1,201905150540,103.686,24.056,云南省,文山壮族苗族自治州,丘北县,532626000000,0.14,灌木林,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_56.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_56.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_56.jpg</values>
+			<values>160552a4785d11e99c816c4b905b11db,1,201905150540,103.664,24.065,云南省,文山壮族苗族自治州,丘北县,532626000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_57.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_57.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_57.jpg</values>
+			<values>160552a5785d11e98af36c4b905b11db,1,201905150540,102.832,23.928,云南省,红河哈尼族彝族自治州,建水县,532524000000,0.14,中覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_58.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_58.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_58.jpg</values>
+			<values>1605799e785d11e9b5566c4b905b11db,1,201905150540,103.834,24.135,云南省,文山壮族苗族自治州,丘北县,532626000000,0.14,山地旱地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_59.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_59.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_59.jpg</values>
+			<values>1605799f785d11e9975b6c4b905b11db,1,201905150540,100.074,23.383,云南省,临沧市,双江拉祜族佤族布朗族傣族自治县,530925000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_60.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_60.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_60.jpg</values>
+			<values>160579a0785d11e9930e6c4b905b11db,1,201905150540,99.752,23.323,云南省,临沧市,双江拉祜族佤族布朗族傣族自治县,530925000000,0.14,灌木林,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_61.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_61.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_61.jpg</values>
+			<values>160579a1785d11e993756c4b905b11db,1,201905150540,100.074,23.382,云南省,临沧市,双江拉祜族佤族布朗族傣族自治县,530925000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_62.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_62.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_62.jpg</values>
+			<values>160579a2785d11e9b6326c4b905b11db,1,201905150540,99.753,23.320,云南省,临沧市,双江拉祜族佤族布朗族傣族自治县,530925000000,0.14,灌木林,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_63.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_63.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_63.jpg</values>
+			<values>160579a3785d11e9ba106c4b905b11db,1,201905150540,100.858,23.588,云南省,普洱市,景谷傣族彝族自治县,530824000000,0.14,灌木林,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_64.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_64.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_64.jpg</values>
+			<values>160579a4785d11e997f76c4b905b11db,1,201905150540,99.801,23.390,云南省,临沧市,双江拉祜族佤族布朗族傣族自治县,530925000000,0.14,灌木林,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_65.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_65.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_65.jpg</values>
+			<values>160579a5785d11e99d586c4b905b11db,1,201905150540,99.798,23.395,云南省,临沧市,双江拉祜族佤族布朗族傣族自治县,530925000000,0.14,灌木林,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_66.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_66.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_66.jpg</values>
+			<values>160579a6785d11e9a1bd6c4b905b11db,1,201905150540,104.135,24.430,云南省,文山壮族苗族自治州,丘北县,532626000000,0.14,灌木林,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_67.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_67.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_67.jpg</values>
+			<values>160579a7785d11e9b0466c4b905b11db,1,201905150540,100.085,23.729,云南省,临沧市,临翔区,530902000000,0.14,中覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_68.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_68.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_68.jpg</values>
+			<values>160579a8785d11e9baaa6c4b905b11db,1,201905150540,100.083,23.730,云南省,临沧市,临翔区,530902000000,0.14,山地旱地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_69.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_69.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_69.jpg</values>
+			<values>160579a9785d11e9bae36c4b905b11db,1,201905150540,99.402,23.699,云南省,临沧市,耿马傣族佤族自治县,530926000000,0.14,中覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_70.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_70.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_70.jpg</values>
+			<values>160579aa785d11e9994e6c4b905b11db,1,201905150540,99.397,23.697,云南省,临沧市,耿马傣族佤族自治县,530926000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_71.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_71.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_71.jpg</values>
+			<values>160579ab785d11e9bb9f6c4b905b11db,1,201905150540,99.619,23.979,云南省,临沧市,永德县,530923000000,0.14,山地旱地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_72.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_72.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_72.jpg</values>
+			<values>160579ac785d11e993916c4b905b11db,1,201905150540,99.690,24.007,云南省,临沧市,永德县,530923000000,0.14,疏林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_73.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_73.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_73.jpg</values>
+			<values>160579ad785d11e9b3726c4b905b11db,1,201905150540,100.501,24.317,云南省,临沧市,云县,530922000000,0.14,山地旱地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_74.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_74.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_74.jpg</values>
+			<values>160579ae785d11e9bd8f6c4b905b11db,1,201905150540,104.344,25.187,云南省,曲靖市,罗平县,530324000000,0.14,山地旱地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_75.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_75.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_75.jpg</values>
+			<values>1605a0ae785d11e99f1b6c4b905b11db,1,201905150540,99.403,24.245,云南省,保山市,昌宁县,530524000000,0.14,高覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_76.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_76.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_76.jpg</values>
+			<values>1605a0af785d11e99bb86c4b905b11db,1,201905150540,99.407,24.246,云南省,保山市,昌宁县,530524000000,0.14,高覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_77.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_77.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_77.jpg</values>
+			<values>1605a0b0785d11e9b1246c4b905b11db,1,201905150540,99.402,24.740,云南省,保山市,昌宁县,530524000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_78.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_78.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_78.jpg</values>
+			<values>1605a0b1785d11e9b3556c4b905b11db,1,201905150540,102.362,25.606,云南省,楚雄彝族自治州,武定县,532329000000,0.14,灌木林,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_79.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_79.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_79.jpg</values>
+			<values>1605a0b2785d11e9acf86c4b905b11db,1,201905150540,102.165,25.635,云南省,楚雄彝族自治州,武定县,532329000000,0.14,山地水田,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_80.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_80.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_80.jpg</values>
+			<values>1605a0b3785d11e9bfd46c4b905b11db,1,201905150540,102.164,25.640,云南省,楚雄彝族自治州,武定县,532329000000,0.14,灌木林,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_81.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_81.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_81.jpg</values>
+			<values>1605a0b4785d11e9925d6c4b905b11db,1,201905150540,102.442,25.750,云南省,昆明市,禄劝彝族苗族自治县,530128000000,0.14,高覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_82.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_82.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_82.jpg</values>
+			<values>1605a0b5785d11e9b2fb6c4b905b11db,1,201905150540,104.326,26.372,云南省,曲靖市,宣威市,530381000000,0.14,高覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_83.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_83.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_83.jpg</values>
+			<values>1605a0b6785d11e98fdc6c4b905b11db,1,201905150540,100.603,25.656,云南省,大理白族自治州,宾川县,532924000000,0.14,高覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_84.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_84.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_84.jpg</values>
+			<values>1605a0b7785d11e9a0076c4b905b11db,1,201905150540,100.602,25.661,云南省,大理白族自治州,宾川县,532924000000,0.14,灌木林,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_85.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_85.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_85.jpg</values>
+			<values>1605a0b8785d11e9ad226c4b905b11db,1,201905150540,100.599,25.660,云南省,大理白族自治州,宾川县,532924000000,0.14,高覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_86.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_86.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_86.jpg</values>
+			<values>1605a0b9785d11e9b15e6c4b905b11db,1,201905150540,100.646,25.692,云南省,大理白族自治州,宾川县,532924000000,0.14,山地旱地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_87.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_87.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_87.jpg</values>
+			<values>1605a0ba785d11e99fac6c4b905b11db,1,201905150540,100.643,25.691,云南省,大理白族自治州,宾川县,532924000000,0.14,高覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_88.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_88.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_88.jpg</values>
+			<values>1605a0bb785d11e9a3ad6c4b905b11db,1,201905150540,100.640,25.691,云南省,大理白族自治州,宾川县,532924000000,0.14,高覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_89.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_89.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_89.jpg</values>
+			<values>1605a0bc785d11e9b0a56c4b905b11db,1,201905150540,100.642,25.696,云南省,大理白族自治州,宾川县,532924000000,0.14,灌木林,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_90.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_90.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_90.jpg</values>
+			<values>1605a0bd785d11e9819a6c4b905b11db,1,201905150540,100.639,25.696,云南省,大理白族自治州,宾川县,532924000000,0.14,灌木林,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_91.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_91.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_91.jpg</values>
+			<values>1605a0be785d11e9b68b6c4b905b11db,1,201905150540,100.644,25.694,云南省,大理白族自治州,宾川县,532924000000,0.14,高覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_92.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_92.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_92.jpg</values>
+			<values>1605a0bf785d11e9977a6c4b905b11db,1,201905150540,100.647,25.695,云南省,大理白族自治州,宾川县,532924000000,0.14,高覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_93.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_93.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_93.jpg</values>
+			<values>1605a0c0785d11e9990e6c4b905b11db,1,201905150540,103.537,26.346,云南省,曲靖市,会泽县,530326000000,0.14,高覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_94.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_94.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_94.jpg</values>
+			<values>1605a0c1785d11e98ad76c4b905b11db,1,201905150540,101.669,26.577,四川省,攀枝花市,东区,510402000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_95.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_95.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_95.jpg</values>
+			<values>1605c7c0785d11e989106c4b905b11db,1,201905150540,101.663,26.576,四川省,攀枝花市,东区,510402000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_96.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_96.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_96.jpg</values>
+			<values>1605c7c1785d11e98abd6c4b905b11db,1,201905150540,101.665,26.578,四川省,攀枝花市,东区,510402000000,0.14,裸土,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_97.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_97.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_97.jpg</values>
+			<values>1605c7c2785d11e9b54c6c4b905b11db,1,201905150540,100.346,26.305,云南省,大理白族自治州,鹤庆县,532932000000,0.14,坡度地旱地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_98.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_98.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_98.jpg</values>
+			<values>1605c7c3785d11e9b7806c4b905b11db,1,201905150540,102.775,27.024,四川省,凉山彝族自治州,宁南县,513427000000,0.14,高覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_99.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_99.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_99.jpg</values>
+			<values>1605c7c4785d11e9a2cc6c4b905b11db,1,201905150540,102.183,26.960,四川省,攀枝花市,米易县,510421000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_100.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_100.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_100.jpg</values>
+			<values>1605c7c5785d11e994ff6c4b905b11db,1,201905150540,104.474,27.995,四川省,宜宾市,筠连县,511527000000,0.14,丘陵旱地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_101.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_101.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_101.jpg</values>
+			<values>1605c7c6785d11e99b7f6c4b905b11db,1,201905150540,101.833,28.228,四川省,凉山彝族自治州,冕宁县,513433000000,0.14,疏林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_102.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_102.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_102.jpg</values>
+			<values>1605c7c7785d11e982796c4b905b11db,1,201905150540,101.829,28.227,四川省,凉山彝族自治州,冕宁县,513433000000,0.14,高覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_103.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_103.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_103.jpg</values>
+			<values>1605c7c8785d11e9b9be6c4b905b11db,1,201905150540,101.829,28.232,四川省,凉山彝族自治州,冕宁县,513433000000,0.14,高覆盖度草地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_104.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_104.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_104.jpg</values>
+			<values>1605c7c9785d11e99c8d6c4b905b11db,1,201905150540,101.825,28.231,四川省,凉山彝族自治州,冕宁县,513433000000,0.14,有林地,NPP,VIIRS,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_pose_105.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_them_105.jpg,C:\Users\Administrator\Desktop\npp_test\zoom\fire_point_mir_105.jpg</values>
+		</table>
+		<table identify="htht_cluster_schedule_fire_point_info">
+			<field>fire_info_id,lon,lat</field>
+			<values>16050470785d11e9b3bb6c4b905b11db,111.839,21.691</values>
+			<values>16050471785d11e9a8b86c4b905b11db,112.017,21.910</values>
+			<values>16050472785d11e9b6a66c4b905b11db,111.944,21.906</values>
+			<values>16050473785d11e9a4c96c4b905b11db,111.962,22.372</values>
+			<values>16050474785d11e9bdd16c4b905b11db,116.098,23.060</values>
+			<values>16050475785d11e996a36c4b905b11db,116.094,23.060</values>
+			<values>16050476785d11e981216c4b905b11db,112.217,22.673</values>
+			<values>16050477785d11e98f2e6c4b905b11db,112.217,22.676</values>
+			<values>16050478785d11e9912a6c4b905b11db,112.786,22.866</values>
+			<values>16050479785d11e984676c4b905b11db,113.171,22.968</values>
+			<values>1605047a785d11e982c76c4b905b11db,113.163,22.967</values>
+			<values>1605047b785d11e982616c4b905b11db,113.158,22.973</values>
+			<values>1605047c785d11e992556c4b905b11db,112.169,22.939</values>
+			<values>16052b80785d11e981b96c4b905b11db,112.103,22.957</values>
+			<values>16052b81785d11e9922e6c4b905b11db,112.095,22.956</values>
+			<values>16052b82785d11e982306c4b905b11db,112.824,23.091</values>
+			<values>16052b83785d11e9b5c76c4b905b11db,112.827,23.097</values>
+			<values>16052b84785d11e9ab946c4b905b11db,112.172,23.040</values>
+			<values>16052b85785d11e98e746c4b905b11db,114.350,23.407</values>
+			<values>16052b86785d11e9a8d96c4b905b11db,108.649,22.704</values>
+			<values>16052b87785d11e9b6246c4b905b11db,111.574,23.244</values>
+			<values>16052b88785d11e98c036c4b905b11db,101.628,21.826</values>
+			<values>16052b89785d11e99e516c4b905b11db,100.211,21.666</values>
+			<values>16052b8a785d11e9971f6c4b905b11db,100.210,21.668</values>
+			<values>16052b8b785d11e9aac26c4b905b11db,100.397,22.164</values>
+			<values>16052b8c785d11e99e406c4b905b11db,100.539,22.213</values>
+			<values>16052b8d785d11e983ab6c4b905b11db,100.538,22.219</values>
+			<values>16052b8e785d11e985196c4b905b11db,100.492,22.226</values>
+			<values>16052b8f785d11e997926c4b905b11db,100.489,22.225</values>
+			<values>16052b90785d11e99a916c4b905b11db,100.495,22.226</values>
+			<values>16052b91785d11e984d76c4b905b11db,100.489,22.231</values>
+			<values>16052b92785d11e991336c4b905b11db,100.492,22.232</values>
+			<values>16052b93785d11e9b2ec6c4b905b11db,100.487,22.230</values>
+			<values>16052b94785d11e98b8f6c4b905b11db,100.371,22.251</values>
+			<values>16052b95785d11e98f3f6c4b905b11db,99.609,22.099</values>
+			<values>16052b96785d11e9bf6a6c4b905b11db,99.609,22.099</values>
+			<values>1605528f785d11e9a8756c4b905b11db,100.383,22.288</values>
+			<values>16055290785d11e99e5d6c4b905b11db,100.387,22.289</values>
+			<values>16055291785d11e9a5586c4b905b11db,101.377,22.921</values>
+			<values>16055292785d11e9b94e6c4b905b11db,101.378,22.923</values>
+			<values>16055293785d11e99f6c6c4b905b11db,101.375,22.922</values>
+			<values>16055294785d11e9bdd86c4b905b11db,101.370,22.937</values>
+			<values>16055295785d11e9b0a86c4b905b11db,99.637,22.650</values>
+			<values>16055296785d11e9812f6c4b905b11db,99.638,22.651</values>
+			<values>16055297785d11e9a2d76c4b905b11db,104.047,23.776</values>
+			<values>16055298785d11e9a05d6c4b905b11db,104.050,23.782</values>
+			<values>16055299785d11e996296c4b905b11db,104.046,23.781</values>
+			<values>1605529a785d11e9a67b6c4b905b11db,103.658,23.827</values>
+			<values>1605529b785d11e98d166c4b905b11db,103.657,23.831</values>
+			<values>1605529c785d11e9a09a6c4b905b11db,103.659,23.828</values>
+			<values>1605529d785d11e983ed6c4b905b11db,103.658,23.832</values>
+			<values>1605529e785d11e990f76c4b905b11db,103.251,23.767</values>
+			<values>1605529f785d11e981bc6c4b905b11db,103.992,23.930</values>
+			<values>160552a0785d11e983816c4b905b11db,103.177,23.799</values>
+			<values>160552a1785d11e9931f6c4b905b11db,99.877,23.098</values>
+			<values>160552a2785d11e9a09d6c4b905b11db,115.880,25.843</values>
+			<values>160552a3785d11e9afa76c4b905b11db,103.686,24.056</values>
+			<values>160552a4785d11e99c816c4b905b11db,103.664,24.065</values>
+			<values>160552a5785d11e98af36c4b905b11db,102.832,23.928</values>
+			<values>1605799e785d11e9b5566c4b905b11db,103.834,24.135</values>
+			<values>1605799f785d11e9975b6c4b905b11db,100.074,23.383</values>
+			<values>160579a0785d11e9930e6c4b905b11db,99.752,23.323</values>
+			<values>160579a1785d11e993756c4b905b11db,100.074,23.382</values>
+			<values>160579a2785d11e9b6326c4b905b11db,99.753,23.320</values>
+			<values>160579a3785d11e9ba106c4b905b11db,100.858,23.588</values>
+			<values>160579a4785d11e997f76c4b905b11db,99.801,23.390</values>
+			<values>160579a5785d11e99d586c4b905b11db,99.798,23.395</values>
+			<values>160579a6785d11e9a1bd6c4b905b11db,104.135,24.430</values>
+			<values>160579a7785d11e9b0466c4b905b11db,100.085,23.729</values>
+			<values>160579a8785d11e9baaa6c4b905b11db,100.083,23.730</values>
+			<values>160579a9785d11e9bae36c4b905b11db,99.402,23.699</values>
+			<values>160579aa785d11e9994e6c4b905b11db,99.397,23.697</values>
+			<values>160579ab785d11e9bb9f6c4b905b11db,99.619,23.979</values>
+			<values>160579ac785d11e993916c4b905b11db,99.690,24.007</values>
+			<values>160579ad785d11e9b3726c4b905b11db,100.501,24.317</values>
+			<values>160579ae785d11e9bd8f6c4b905b11db,104.344,25.187</values>
+			<values>1605a0ae785d11e99f1b6c4b905b11db,99.403,24.245</values>
+			<values>1605a0af785d11e99bb86c4b905b11db,99.407,24.246</values>
+			<values>1605a0b0785d11e9b1246c4b905b11db,99.402,24.740</values>
+			<values>1605a0b1785d11e9b3556c4b905b11db,102.362,25.606</values>
+			<values>1605a0b2785d11e9acf86c4b905b11db,102.165,25.635</values>
+			<values>1605a0b3785d11e9bfd46c4b905b11db,102.164,25.640</values>
+			<values>1605a0b4785d11e9925d6c4b905b11db,102.442,25.750</values>
+			<values>1605a0b5785d11e9b2fb6c4b905b11db,104.326,26.372</values>
+			<values>1605a0b6785d11e98fdc6c4b905b11db,100.603,25.656</values>
+			<values>1605a0b7785d11e9a0076c4b905b11db,100.602,25.661</values>
+			<values>1605a0b8785d11e9ad226c4b905b11db,100.599,25.660</values>
+			<values>1605a0b9785d11e9b15e6c4b905b11db,100.646,25.692</values>
+			<values>1605a0ba785d11e99fac6c4b905b11db,100.643,25.691</values>
+			<values>1605a0bb785d11e9a3ad6c4b905b11db,100.640,25.691</values>
+			<values>1605a0bc785d11e9b0a56c4b905b11db,100.642,25.696</values>
+			<values>1605a0bd785d11e9819a6c4b905b11db,100.639,25.696</values>
+			<values>1605a0be785d11e9b68b6c4b905b11db,100.644,25.694</values>
+			<values>1605a0bf785d11e9977a6c4b905b11db,100.647,25.695</values>
+			<values>1605a0c0785d11e9990e6c4b905b11db,103.537,26.346</values>
+			<values>1605a0c1785d11e98ad76c4b905b11db,101.669,26.577</values>
+			<values>1605c7c0785d11e989106c4b905b11db,101.663,26.576</values>
+			<values>1605c7c1785d11e98abd6c4b905b11db,101.665,26.578</values>
+			<values>1605c7c2785d11e9b54c6c4b905b11db,100.346,26.305</values>
+			<values>1605c7c3785d11e9b7806c4b905b11db,102.775,27.024</values>
+			<values>1605c7c4785d11e9a2cc6c4b905b11db,102.183,26.960</values>
+			<values>1605c7c5785d11e994ff6c4b905b11db,104.474,27.995</values>
+			<values>1605c7c6785d11e99b7f6c4b905b11db,101.833,28.228</values>
+			<values>1605c7c7785d11e982796c4b905b11db,101.829,28.227</values>
+			<values>1605c7c8785d11e9b9be6c4b905b11db,101.829,28.232</values>
+			<values>1605c7c9785d11e99c8d6c4b905b11db,101.825,28.231</values>
+		</table>
+	</tables>
+</XML>

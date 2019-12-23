@@ -1,0 +1,3 @@
+C:\\Users\\Administrator\\Desktop\\hisd_lonlatprj\\Debug\\hisd_lonlatprj.exe   C:\\Users\\Administrator\\Desktop\\hisd_lonlatprj\\tempdata\\        C:\\Users\\Administrator\\Desktop\\hisd_lonlatprj\\tempdata\\   60 80 2401 2401 0.05 0.05
+程序  输入文件夹 输出文件夹 左上角纬度 左上角经度   宽度 高度  经纬分辨率   纬度分辨率
+结果文件数据为float32位

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--fileTime:20171017050000-->
+<XML>
+	<input identify="file_time" type="\d{12}">201901070740</input>
+	<input identify="pre_data_dir" type="path">C:\Users\Administrator\Desktop\test\201901070740</input>
+	<input identify="output_xml">C:\Users\Administrator\Desktop\test/H8FIRE.xml</input>
+	<input identify="out_fire_dir">C:\Users\Administrator\Desktop\test</input>
+	<input identify="temp_dir">C:\Users\Administrator\Desktop\H8\temp</input>
+	<input identify="out_pre_pro_dir">C:\Users\Administrator\Desktop\H8\pre</input>
+</XML>

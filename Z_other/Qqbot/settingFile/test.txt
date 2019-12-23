@@ -1,0 +1,16 @@
+吃饭,chifan,cf        : 8
+
+刷牙,shuaya,sy        : 8
+
+记录,jilu,jl          : 24
+
+反省,fanxing,fx       : 24
+
+锻炼,duanlian,dl      : 12
+
+洗澡,xizao,xz         : 48
+
+
+
+
+

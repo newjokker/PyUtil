@@ -1,0 +1,120 @@
+help(docxtpl.DocxTemplate)
+Help on class DocxTemplate in module docxtpl:
+class DocxTemplate(__builtin__.object)
+ |  Class for managing docx files as they were jinja2 templates
+ |
+ |  Methods defined here:
+ |
+ |  __getattr__(self, name)
+ |
+ |  __init__(self, docx)
+ |
+ |  build_headers_footers_xml(self, context, uri, jinja_env=None)
+ |
+ |  build_pic_map(self)
+ |      Searches in docx template all the xml pictures tag and store them
+ |      in pic_map dict
+ |
+ |  build_url_id(self, url)
+ |
+ |  build_xml(self, context, jinja_env=None)
+ |
+ |  fix_tables(self, xml)
+ |      # using of TC tag in for cycle can cause that count of columns does not
+ |      # correspond to real count of columns in row. This function is able to fix it.
+ |
+ |  get_docx(self)
+ |
+ |  get_headers_footers_encoding(self, xml)
+ |
+ |  get_headers_footers_xml(self, uri)
+ |
+ |  get_pic_map(self)
+ |
+ |  get_xml(self)
+ |
+ |  map_headers_footers_xml(self, relKey, xml)
+ |
+ |  map_tree(self, tree)
+ |
+ |  new_subdoc(self, docpath=None)
+ |
+ |  patch_xml(self, src_xml)
+ |
+ |  post_processing(self, docx_filename)
+ |
+ |  pre_processing(self)
+ |
+ |  render(self, context, jinja_env=None, autoescape=False)
+ |
+ |  render_xml(self, src_xml, context, jinja_env=None)
+ |
+ |  replace_embedded(self, src_file, dst_file)
+ |      Replace one embdded object by another one into a docx
+ |
+ |      This has been done mainly because it is not possible to add images
+ |      in docx header/footer.
+ |      With this function, put a dummy picture in your header/footer,
+ |      then specify it with its replacement in this function
+ |
+ |      Syntax: tpl.replace_embedded('dummy_doc.docx','doc_to_paste.docx')
+ |
+ |      Note2 : it is important to have the source file as it is required to
+ |              calculate its CRC to find them in the docx
+ |
+ |  replace_media(self, src_file, dst_file)
+ |      Replace one media by another one into a docx
+ |
+ |      This has been done mainly because it is not possible to add images in
+ |      docx header/footer.
+ |      With this function, put a dummy picture in your header/footer,
+ |      then specify it with its replacement in this function
+ |
+ |      Syntax: tpl.replace_media('dummy_media_to_replace.png','media_to_paste.jpg')
+ |
+ |      Note: for images, the aspect ratio will be the same as the replaced image
+ |      Note2 : it is important to have the source media file as it is required
+ |              to calculate its CRC to find them in the docx
+ |
+ |  replace_pic(self, embedded_file, dst_file)
+ |      Replace embedded picture with original-name given by embedded_file.
+ |         (give only the file basename, not the full path)
+ |         The new picture is given by dst_file (either a filename or a file-like
+ |         object)
+ |
+ |      Notes:
+ |          1) embedded_file and dst_file must have the same extension/format
+ |             in case dst_file is a file-like object, no check is done on
+ |             format compatibility
+ |          2) the aspect ratio will be the same as the replaced image
+ |          3) There is no need to keep the original file (this is not the case
+ |             for replace_embedded and replace_media)
+ |
+ |  save(self, filename, *args, **kwargs)
+ |
+ |  write_xml(self, filename)
+ |
+ |  xml_to_string(self, xml, encoding='unicode')
+ |
+ |  ----------------------------------------------------------------------
+ |  Static methods defined here:
+ |
+ |  get_file_crc(filename)
+ |
+ |  ----------------------------------------------------------------------
+ |  Data descriptors defined here:
+ |
+ |  __dict__
+ |      dictionary for instance variables (if defined)
+ |
+ |  __weakref__
+ |      list of weak references to the object (if defined)
+ |
+ |  undeclared_template_variables
+ |
+ |  ----------------------------------------------------------------------
+ |  Data and other attributes defined here:
+ |
+ |  FOOTER_URI = 'http://schemas.openxmlformats.org/officeDocument/2006/re...
+ |
+ |  HEADER_URI = 'http://schemas.openxmlformats.org/officeDocument/2006/re...

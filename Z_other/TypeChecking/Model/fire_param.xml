@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--存放火点探测用到的参数，只有火点探测算法更新的时候才改变-->
+<XML>
+
+	<input des = "白天背景像元中背景火点像元的BT_04判断阈值" identify="Th_t7">310</input>
+	<input des = "夜间背景像元中背景火点像元的BT_04判断阈值" identify="Th_t8">295</input>
+	<input des = "白天背景像元中背景火点像元的D_BT_04_11判断阈值" identify="Th_dt2">20</input>
+	<input des = "夜间背景像元中背景火点像元的D_BT_04_11判断阈值" identify="Th_dt3">10</input>
+	<input des = "" identify="Th_cloud_desert">8</input>
+
+	<input identify="refine_mir_fire">3.5</input>
+	<input identify="refine_m_f_fire">3</input>
+
+	<input identify="segments">1,2,3</input>
+	<input identify="channals">1,2,3,4,7,14</input>
+	<input identify="segMents">2,3</input>
+	<input identify="lat_lon">97.3520126342773, 108.552012634277, 26.0344760131836, 34.3144760131836</input>
+	<input identify="lat_lon">97, 109, 24, 38</input>
+	<input identify="pixel_res">0.02,0.01</input>
+	<input identify="ndvi_limit_value">0.00</input>
+	<input identify="cloud_value">275,265</input>
+	<input identify="water_value">0.1,0,0.1,0</input>
+	<input identify="low_temperature_value">260,220</input>
+	<input identify="refine_fire_value">8,6</input>
+
+
+
+</XML>
